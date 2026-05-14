@@ -1,0 +1,11 @@
+SampleID,ActualIdentity,PredictedIdentity,SimilarityScore
+S001,Ali,Ali,0.95
+S002,Siti,Siti,0.92
+S003,Abu,Abu,0.89
+S004,Aina,Aina,0.96
+S005,Ali,Ali,0.91
+S006,Siti,Aina,0.62
+S007,Abu,Abu,0.88
+S008,Aina,Aina,0.94
+S009,Ali,Siti,0.55
+S010,Siti,Siti,0.90
